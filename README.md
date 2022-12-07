@@ -1,6 +1,5 @@
 # Django School
-
-[![Python Version](https://img.shields.io/badge/python-3.6-brightgreen.svg)](https://python.org)
+![made-with-python (1)](https://user-images.githubusercontent.com/104600219/206321350-70823483-e496-4663-8a48-94df7ed75645.svg)
 [![Django Version](https://img.shields.io/badge/django-2.0-brightgreen.svg)](https://djangoproject.com)
 
 This is an example project to illustrate an implementation of multiple user types. In this Django app, teachers can create quizzes and students can sign up and take quizzes related to their interests.
